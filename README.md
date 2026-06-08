@@ -1,4 +1,4 @@
 # firstrepo
 this is my first ever github repository
 <br>
-Author -  Kanishk Shivkumar
+Author -  Kanishk Shivkumar (scourge of stars)
